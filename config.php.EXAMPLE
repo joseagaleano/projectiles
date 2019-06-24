@@ -1,0 +1,10 @@
+<?php exit(); ?>
+[[GENERAL]]
+; Language name same as file in locale folder, if not set or not found first file will be included
+language = es
+
+[[DATABASE]]
+server = localhost
+user = userDB
+password = Password*
+database = Database

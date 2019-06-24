@@ -1,0 +1,6 @@
+Neutral blue
+background:#FCFFF5;
+background:#D1DBBD;
+background:#91AA9D;
+background:#3E606F;
+background:#193441;
